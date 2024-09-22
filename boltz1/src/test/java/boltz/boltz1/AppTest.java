@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
 
 /**
- * Unit tes pull modification t for simple App.
+ * Unit tes pull modification dt for simple App.
  */
 public class AppTest {
 
