@@ -18,10 +18,6 @@ public class Overloading {
 	
 
 	public static void main(String[] args) {
-		int a =5;
-		int b= 3;
-		int c=4;
-		int d= 10;
 		add(4);
 		add(4,16);
 
